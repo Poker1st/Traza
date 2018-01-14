@@ -1,0 +1,20 @@
+{
+  "name": "Traza-Bot",
+  "version": "1.0.0",
+  "description": "A discord music bot called Traza",
+  "main": "index.js",
+  },
+  "author": "Poker1st",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "0.0.3",
+    "request": "^2.81.0",
+    "yamljs": "^0.2.8",
+    "youtube-info": "^1.1.1",
+    "ytdl-core": "^0.16.2"
+  }
+}
