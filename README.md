@@ -1,2 +1,2 @@
 # Traza
-In development traza bot
+Abandonded project
